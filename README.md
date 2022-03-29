@@ -3,4 +3,5 @@
 
 使用前请先安装GO-CQHTTP，并选择正向ws通信配置,注意修改配置文件和PY文件里的路径
 
+分支main里有you8023的yesbot版本
 https://github.com/Mrs4s/go-cqhttp
